@@ -10,3 +10,4 @@ LazyData: true
 import: 
   MASS
   mvtnorm
+RoxygenNote: 6.1.1
